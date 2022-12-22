@@ -1,5 +1,7 @@
 Lung Cancer Prediction final-project
+
 INTRODUCTION:
+
  A cancer that begins in the lungs and most often occurs in people who smoke.
 Two major types of lung cancer are non-small cell lung cancer and small cell lung cancer. Causes of lung cancer include smoking, second-hand smoke, exposure to certain toxins and family history.
 Symptoms include a cough (often with blood), chest pain, wheezing and weight loss. These symptoms often don't appear until the cancer is advanced.
